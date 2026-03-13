@@ -7,6 +7,7 @@
 **AI & Data Science • Frontend Development • Ophthalmologist @ Mengo Hospital**
 
 <p>
+  <img src="https://komarev.com/ghpvc/?username=codequeenyvonne-cpu&style=for-the-badge&color=0d9488" alt="Profile views" />
   <a href="https://github.com/codequeenyvonne-cpu"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://www.facebook.com/profile.php?id=61582286030019"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
   <a href="#"><img alt="YouTube — Live Streams Coming Soon" src="https://img.shields.io/badge/YouTube-Live_Streams_Soon-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
@@ -33,6 +34,10 @@
 
 > *Passionate about tech. Hardworking. Curious. Early 20s & building in public.*  
 > I write code daily, ship projects, and bridge the gap between healthcare and technology.
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" width="100%" />
+</p>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3500&pause=1000&color=64748B&center=true&vCenter=true&width=500&multiline=true&lines=Currently+focused+on+AI+%26+Data+Science;Next%3A+YouTube+live+streams+on+tech+trends" alt="Focus" />
 
@@ -115,6 +120,14 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=codequeenyvonne-cpu&theme=react-dark&hide_border=true" alt="Contribution Graph" width="95%" />
 
 </div>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/codequeenyvonne-cpu/codequeenyvonne-cpu/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
+</p>
 
 ---
 
