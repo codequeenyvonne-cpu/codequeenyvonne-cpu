@@ -4,7 +4,7 @@
 
 # CodeQueen 👑
 
-**Aspiring AI & Data Science Engineer • Frontend Learner • Ophthalmologist @ Mengo Hospital**
+**AI & Data Science • Frontend Development • Ophthalmologist @ Mengo Hospital**
 
 <p>
   <a href="https://github.com/codequeenyvonne-cpu"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
@@ -12,23 +12,33 @@
   <a href="#"><img alt="YouTube — Live Streams Coming Soon" src="https://img.shields.io/badge/YouTube-Live_Streams_Soon-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&duration=2500&pause=600&color=0D9488&center=true&vCenter=true&width=680&lines=HTML+%7C+CSS+%7C+JavaScript;Python+%7C+Data+Science+%7C+AI+%26+Machine+Learning;Minimal+%26+Clean+Design;Learning+by+Shipping+Projects" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=800&color=0D9488&center=true&vCenter=true&width=700&lines=Builds+with+HTML+%E2%80%A2+CSS+%E2%80%A2+JavaScript;Works+with+Python+%E2%80%A2+Data+Science+%E2%80%A2+AI+%26+ML;Creates+Data+Visualizations+%26+Web+Apps;Teaching+Tech+on+YouTube+Soon+%F0%9F%93%9A" alt="Typing SVG" />
 
 </div>
 
 ---
 
-### About CodeQueen
+### ✨ What I Do
 
-- 🧠 **Hardworking & curious** — loves writing code and learning new tech
-- 📚 **Learning**: HTML, CSS, JavaScript, Python, Data Science, AI & Machine Learning
-- 🎬 **Coming soon**: YouTube live streams — tech trends, tutorials & learning journeys
-- 📖 **Loves**: reading books, typing stories
-- 👁️ **By day**: Ophthalmologist at Mengo Hospital
+| 🎯 | **Frontend** — I build responsive, modern websites with HTML, CSS & JavaScript |
+| :---: | :--- |
+| 📊 | **Data & AI** — I work with Python, Pandas, NumPy & create visualizations for insights |
+| 🤖 | **Machine Learning** — I use scikit-learn, TensorFlow & PyTorch for AI projects |
+| 📚 | **Content** — I love reading, writing stories & plan to teach tech trends on YouTube |
+| 👁️ | **By day** — Ophthalmologist at Mengo Hospital, bringing precision to both code & care |
 
 ---
 
-### Tech Stack
+### 💡 About CodeQueen
+
+> *Passionate about tech. Hardworking. Curious. Early 20s & building in public.*  
+> I write code daily, ship projects, and bridge the gap between healthcare and technology.
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3500&pause=1000&color=64748B&center=true&vCenter=true&width=500&multiline=true&lines=Currently+focused+on+AI+%26+Data+Science;Next%3A+YouTube+live+streams+on+tech+trends" alt="Focus" />
+
+---
+
+### 🛠️ Tech Stack
 
 <div align="center">
 
@@ -49,11 +59,9 @@
 
 </div>
 
-**AI / Data Science libraries:** NumPy, Pandas, Matplotlib, Seaborn, scikit-learn, TensorFlow, PyTorch (basics)
-
 ---
 
-### Featured Projects
+### 📂 Featured Projects
 
 <table>
   <tr>
@@ -92,18 +100,25 @@
 
 ---
 
-### GitHub Stats
+### 📊 GitHub Stats
 
 <div align="center">
 
-<img height="165" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=codequeenyvonne-cpu&show_icons=true&hide_title=true&rank_icon=github&theme=transparent" />
-<img height="165" alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codequeenyvonne-cpu&layout=compact&theme=transparent" />
+<img height="170" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=codequeenyvonne-cpu&show_icons=true&hide_title=true&rank_icon=github&theme=transparent" />
+<img height="170" alt="Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=codequeenyvonne-cpu&theme=transparent" />
+<img height="170" alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codequeenyvonne-cpu&layout=compact&theme=transparent" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=codequeenyvonne-cpu&theme=react-dark&hide_border=true" alt="Contribution Graph" width="95%" />
 
 </div>
 
 ---
 
-### Get in Touch
+### 📬 Get in Touch
 
 - 📘 [Facebook](https://www.facebook.com/profile.php?id=61582286030019)
 - 💻 [GitHub](https://github.com/codequeenyvonne-cpu)
@@ -112,7 +127,7 @@
 ---
 
 <p align="center">
-  <strong>CodeQueen — Building in public ✨</strong>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=4000&pause=1500&color=0D9488&center=true&vCenter=true&width=450&lines=CodeQueen+%E2%80%94+Building+in+public+%F0%9F%92%A1" alt="Footer" />
 </p>
 
 </div>
